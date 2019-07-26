@@ -1,3 +1,24 @@
-div {
+#message {
   color: red;
+}
+
+.info {
+  color: green;
+  font-family: Arial;
+  font-size: 32px;
+}
+
+div {
+  color: blue;
+  text-decoration: underline;
+}
+
+div.info {
+  color: orange;
+}
+
+section {
+  font-style: italic;
+  border: 2px dashed blue;
+  background-color: grey;
 }
